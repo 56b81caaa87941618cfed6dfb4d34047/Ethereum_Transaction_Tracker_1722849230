@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app's interface?\", \"option1\": \"On the main screen, prominently displayed\", \"option2\": \"In the app's menu or settings section\"}, {\"question 2\": \"What functionality or action should be triggered when the 'Hello World' button is pressed?\", \"option1\": \"Display a pop-up message saying 'Hello World'\", \"option2\": \"Navigate to a new page with more information or actions\"}], \"input_token_count\": 261, \"output_token_count\": 114, \"time_taken\": \"0:00:02.964295\"}",
+        "message_id": "guest05082024091501",
+        "timestamp": "05082024091505",
+        "component_file_name": "simple_header_component_1722849231",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time ethereum transaction alerts toggle\", \"checked\": true}, {\"feature\": \"Advanced search filters for transactions\", \"checked\": false}, {\"feature\": \"Customizable widget to display current Ethereum stats\", \"checked\": true}, {\"feature\": \"Dark/Light mode switch\", \"checked\": true}, {\"feature\": \"User profile customization options\", \"checked\": false}, {\"feature\": \"Integration with Ethereum blockchain for direct transaction tracking\", \"checked\": true}], \"input_token_count\": 215, \"output_token_count\": 97, \"time_taken\": \"0:00:02.622770\"}",
         "message_id": "guest05082024091501",
